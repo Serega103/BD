@@ -1,0 +1,11 @@
+Z:\sous\bd\bd\bin\Debug\bd.exe.config
+Z:\sous\bd\bd\bin\Debug\bd.exe
+Z:\sous\bd\bd\bin\Debug\bd.pdb
+Z:\sous\bd\bd\obj\Debug\bd.csproj.AssemblyReference.cache
+Z:\sous\bd\bd\obj\Debug\bd.Properties.Resources.resources
+Z:\sous\bd\bd\obj\Debug\bd.csproj.GenerateResource.cache
+Z:\sous\bd\bd\obj\Debug\bd.csproj.CoreCompileInputs.cache
+Z:\sous\bd\bd\obj\Debug\bd.exe
+Z:\sous\bd\bd\obj\Debug\bd.pdb
+Z:\sous\bd\bd\bin\Debug\CompanyDB.mdb
+Z:\sous\bd\bd\obj\Debug\bd.Form1.resources
